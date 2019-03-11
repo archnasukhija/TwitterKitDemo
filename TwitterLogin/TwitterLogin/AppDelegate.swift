@@ -9,8 +9,8 @@
 import UIKit
 import TwitterKit
 
-let kTwitterConsumerKey = "y9dvfRetW1Mc0UlOIpdEZGdUI"
-let kTwitterConsumerSecretKey = "h7FueWwyn2yswbtF6wAdUfeGzlpvCrWsmLtHYDM6fcVe4PkmC1"
+let kTwitterConsumerKey = "XXXXXXXXX" // Provide your consumer key
+let kTwitterConsumerSecretKey = "XXXXXXXXXXXXXXXXXXXXXXXXXX" // Provide your api key, as it is a sensitive information
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
